@@ -1,0 +1,1 @@
+rename *.csv *.txt
